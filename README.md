@@ -11,6 +11,16 @@ https://www.getpostman.com/
 
 https://www.slimframework.com/
 
+Instalar todos os softwares acima:
+
+- APÓS BAIXAR OS ARQUIVOS NA PASTA C:\xampp\htdocs\appslim
+
+na pasta appslim, digitar:
+
+composer require slim/slim "^3.0" 
+
+- PARA TESTAR A APP ABRIR O Postman 
+
 // Comandos para teste no Postman
 
 // Todos os clientes
